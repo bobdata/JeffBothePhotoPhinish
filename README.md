@@ -1,5 +1,14 @@
 # Photo Phinish Painting Website
 
+the original for this repo is 
+
+https://github.com/jmbothe/photo-phinish
+
+this is a clone
+im just learning github
+there may be errors here
+advise to go to Jim Bother repo
+
 #### A learning project focused on leveling-up with:
 * Building practical websites for business clients.
 * Mobile-first responsive design with HTML and CSS.
