@@ -5,9 +5,10 @@ the original for this repo is
 https://github.com/jmbothe/photo-phinish
 
 this is a clone
-im just learning github
-there may be errors here
-advise to go to Jim Bother repo
+
+Im just learning github and so there may be errors here
+
+Advise to go to orignal Jim Bother repo
 
 #### A learning project focused on leveling-up with:
 * Building practical websites for business clients.
