@@ -1,14 +1,14 @@
 # Photo Phinish Painting Website
 
-the original for this repo is 
+The original source for this repo is: 
 
 https://github.com/jmbothe/photo-phinish
 
-this is a clone
+This is a clone and may be full of errors
 
-Im just learning github and so there may be errors here
+Im just learning github.
 
-Advise to go to orignal Jim Bother repo
+Advise to go to orignal Jim Bothe github repo for up to date source and information
 
 #### A learning project focused on leveling-up with:
 * Building practical websites for business clients.
